@@ -9,5 +9,7 @@ Este site e sobre uma empresa de tecnologia e deselvomvimento de sites e serviç
 
 + HTML 
 + CSS
++ GIT
++ GITHUB
 
 
